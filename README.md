@@ -1,3 +1,10 @@
+# SW Planets
+
+**Live demo:** https://sw-planets-three.vercel.app  
+**Repository:** https://github.com/MaxMorozov23/sw-planets
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
